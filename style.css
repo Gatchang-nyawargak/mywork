@@ -1,0 +1,29 @@
+#container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    border: none;
+    
+}
+#photos{
+    display: grid;
+
+}
+    
+
+    
+    
+
+#forms{
+    border: none;
+    display: grid;
+    margin: auto;
+    padding: 40px;
+
+}
+.input{
+    padding: 12 14px;
+    border: solid 2px;
+}
+button{
+    border: solid 1px purple;
+}
